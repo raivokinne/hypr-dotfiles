@@ -1,0 +1,32 @@
+foreground = #ffffff
+background = #000000
+# font-family = JetBrainsMono Nerd Font
+# font-family = Victor Mono
+# font-family = Noto Sans Mono
+# font-family = FantasqueSansM Nerd Font
+# font-family = FiraCode Nerd Font
+# font-family = DankMono Nerd Font Mono
+# font-family = Cascadia Code NF
+# font-family = EnvyCodeR Nerd Font Mono
+font-family = Iosevka Nerd Font
+# font-family = SpaceMono Nerd Font
+# font-family = GeistMono Nerd Font
+window-padding-balance = true
+font-size = 22
+window-padding-x = 10
+window-padding-y = 10
+theme = rose-pine
+font-feature = -liga
+# theme = tokyonight
+# adjust-cell-height = -5%
+# adjust-cell-width = -5%
+cursor-style = block
+font-style-italic = false
+font-style-bold = false
+font-style-bold-italic = false
+keybind = ctrl+shift+w=new_split:up
+keybind = ctrl+shift+s=new_split:down
+keybind = ctrl+shift+d=new_split:right
+keybind = ctrl+shift+a=new_split:left
+keybind = ctrl+shift+n=new_tab
+keybind = ctrl+alt+n=new_window
